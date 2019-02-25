@@ -1,0 +1,10 @@
+<edges>
+  <edge from="4" id="488909c258004c9197c95f6f66bfec25" numLanes="3" speed="45" to="0" />
+  <edge from="1" id="54e2c0a3f63b4e869fb6c62c0255ac9c" numLanes="3" speed="45" to="0" />
+  <edge from="3" id="fc4d9a75d45343a4a2523c713f5e727c" numLanes="4" speed="45" to="0" />
+  <edge from="2" id="2bf32d7d7b1545d58ea945a0c8a6e9a3" numLanes="3" speed="45" to="0" />
+  <edge from="0" id="671fe5d822ba4093b2d5163708378f19" numLanes="3" speed="45" to="4" />
+  <edge from="0" id="9ca39900ffe44887838f1f77edaedb90" numLanes="3" speed="45" to="1" />
+  <edge from="0" id="d5435e6103b845a28b9a4c2ae1df2f02" numLanes="3" speed="45" to="3" />
+  <edge from="0" id="2573a935d265469995d647fa5fe82599" numLanes="3" speed="45" to="2" />
+</edges>

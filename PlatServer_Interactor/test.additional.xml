@@ -1,0 +1,55 @@
+<additional>
+  <tlLogic id="0" offset="0" programID="my_program" type="static">
+    <phase duration="24.0" state="GGGGGGrrrrrrrrrrrrGGGGGGGGGrrrrrrrrrrrr"/>
+    <phase duration="3.0" state="yyyyyyrrrrrrrrrrrryyyyyyyyyrrrrrrrrrrrr"/>
+    <phase duration="3.0" state="rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr"/>
+    <phase duration="24.0" state="GGGrrrGGGrrrrrrrrrGGGrrrrrrGGGrrrrrrrrr"/>
+    <phase duration="3.0" state="yyyrrryyyrrrrrrrrryyyrrrrrryyyrrrrrrrrr"/>
+    <phase duration="3.0" state="rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr"/>
+    <phase duration="24.0" state="rrrrrrrrrGGGGGGrrrrrrrrrrrrrrrGGGGGGrrr"/>
+    <phase duration="3.0" state="rrrrrrrrryyyyyyrrrrrrrrrrrrrrryyyyyyrrr"/>
+    <phase duration="3.0" state="rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr"/>
+    <phase duration="24.0" state="rrrrrrrrrGGGrrrGGGrrrrrrrrrrrrGGGrrrGGG"/>
+    <phase duration="3.0" state="rrrrrrrrryyyrrryyyrrrrrrrrrrrryyyrrryyy"/>
+    <phase duration="3.0" state="rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr"/>
+  </tlLogic>
+  <instantInductionLoop file="insinduc_loop.ins.xml" id="488909c258004c9197c95f6f66bfec25_2" lane="488909c258004c9197c95f6f66bfec25_2" pos="280"/>
+  <inductionLoop file="inducLoopfile.E1.xml" freq="300" id="488909c258004c9197c95f6f66bfec25_2" lane="488909c258004c9197c95f6f66bfec25_2" pos="280"/>
+  <laneAreaDetector file="lane_area.E2.xml" freq="300" id="488909c258004c9197c95f6f66bfec25_2" lane="488909c258004c9197c95f6f66bfec25_2"/>
+  <instantInductionLoop file="insinduc_loop.ins.xml" id="488909c258004c9197c95f6f66bfec25_1" lane="488909c258004c9197c95f6f66bfec25_1" pos="280"/>
+  <inductionLoop file="inducLoopfile.E1.xml" freq="300" id="488909c258004c9197c95f6f66bfec25_1" lane="488909c258004c9197c95f6f66bfec25_1" pos="280"/>
+  <laneAreaDetector file="lane_area.E2.xml" freq="300" id="488909c258004c9197c95f6f66bfec25_1" lane="488909c258004c9197c95f6f66bfec25_1"/>
+  <instantInductionLoop file="insinduc_loop.ins.xml" id="488909c258004c9197c95f6f66bfec25_0" lane="488909c258004c9197c95f6f66bfec25_0" pos="280"/>
+  <inductionLoop file="inducLoopfile.E1.xml" freq="300" id="488909c258004c9197c95f6f66bfec25_0" lane="488909c258004c9197c95f6f66bfec25_0" pos="280"/>
+  <laneAreaDetector file="lane_area.E2.xml" freq="300" id="488909c258004c9197c95f6f66bfec25_0" lane="488909c258004c9197c95f6f66bfec25_0"/>
+  <instantInductionLoop file="insinduc_loop.ins.xml" id="54e2c0a3f63b4e869fb6c62c0255ac9c_2" lane="54e2c0a3f63b4e869fb6c62c0255ac9c_2" pos="280"/>
+  <inductionLoop file="inducLoopfile.E1.xml" freq="300" id="54e2c0a3f63b4e869fb6c62c0255ac9c_2" lane="54e2c0a3f63b4e869fb6c62c0255ac9c_2" pos="280"/>
+  <laneAreaDetector file="lane_area.E2.xml" freq="300" id="54e2c0a3f63b4e869fb6c62c0255ac9c_2" lane="54e2c0a3f63b4e869fb6c62c0255ac9c_2"/>
+  <instantInductionLoop file="insinduc_loop.ins.xml" id="54e2c0a3f63b4e869fb6c62c0255ac9c_1" lane="54e2c0a3f63b4e869fb6c62c0255ac9c_1" pos="280"/>
+  <inductionLoop file="inducLoopfile.E1.xml" freq="300" id="54e2c0a3f63b4e869fb6c62c0255ac9c_1" lane="54e2c0a3f63b4e869fb6c62c0255ac9c_1" pos="280"/>
+  <laneAreaDetector file="lane_area.E2.xml" freq="300" id="54e2c0a3f63b4e869fb6c62c0255ac9c_1" lane="54e2c0a3f63b4e869fb6c62c0255ac9c_1"/>
+  <instantInductionLoop file="insinduc_loop.ins.xml" id="54e2c0a3f63b4e869fb6c62c0255ac9c_0" lane="54e2c0a3f63b4e869fb6c62c0255ac9c_0" pos="280"/>
+  <inductionLoop file="inducLoopfile.E1.xml" freq="300" id="54e2c0a3f63b4e869fb6c62c0255ac9c_0" lane="54e2c0a3f63b4e869fb6c62c0255ac9c_0" pos="280"/>
+  <laneAreaDetector file="lane_area.E2.xml" freq="300" id="54e2c0a3f63b4e869fb6c62c0255ac9c_0" lane="54e2c0a3f63b4e869fb6c62c0255ac9c_0"/>
+  <instantInductionLoop file="insinduc_loop.ins.xml" id="fc4d9a75d45343a4a2523c713f5e727c_3" lane="fc4d9a75d45343a4a2523c713f5e727c_3" pos="230"/>
+  <inductionLoop file="inducLoopfile.E1.xml" freq="300" id="fc4d9a75d45343a4a2523c713f5e727c_3" lane="fc4d9a75d45343a4a2523c713f5e727c_3" pos="230"/>
+  <laneAreaDetector file="lane_area.E2.xml" freq="300" id="fc4d9a75d45343a4a2523c713f5e727c_3" lane="fc4d9a75d45343a4a2523c713f5e727c_3"/>
+  <instantInductionLoop file="insinduc_loop.ins.xml" id="fc4d9a75d45343a4a2523c713f5e727c_2" lane="fc4d9a75d45343a4a2523c713f5e727c_2" pos="230"/>
+  <inductionLoop file="inducLoopfile.E1.xml" freq="300" id="fc4d9a75d45343a4a2523c713f5e727c_2" lane="fc4d9a75d45343a4a2523c713f5e727c_2" pos="230"/>
+  <laneAreaDetector file="lane_area.E2.xml" freq="300" id="fc4d9a75d45343a4a2523c713f5e727c_2" lane="fc4d9a75d45343a4a2523c713f5e727c_2"/>
+  <instantInductionLoop file="insinduc_loop.ins.xml" id="fc4d9a75d45343a4a2523c713f5e727c_1" lane="fc4d9a75d45343a4a2523c713f5e727c_1" pos="230"/>
+  <inductionLoop file="inducLoopfile.E1.xml" freq="300" id="fc4d9a75d45343a4a2523c713f5e727c_1" lane="fc4d9a75d45343a4a2523c713f5e727c_1" pos="230"/>
+  <laneAreaDetector file="lane_area.E2.xml" freq="300" id="fc4d9a75d45343a4a2523c713f5e727c_1" lane="fc4d9a75d45343a4a2523c713f5e727c_1"/>
+  <instantInductionLoop file="insinduc_loop.ins.xml" id="fc4d9a75d45343a4a2523c713f5e727c_0" lane="fc4d9a75d45343a4a2523c713f5e727c_0" pos="230"/>
+  <inductionLoop file="inducLoopfile.E1.xml" freq="300" id="fc4d9a75d45343a4a2523c713f5e727c_0" lane="fc4d9a75d45343a4a2523c713f5e727c_0" pos="230"/>
+  <laneAreaDetector file="lane_area.E2.xml" freq="300" id="fc4d9a75d45343a4a2523c713f5e727c_0" lane="fc4d9a75d45343a4a2523c713f5e727c_0"/>
+  <instantInductionLoop file="insinduc_loop.ins.xml" id="2bf32d7d7b1545d58ea945a0c8a6e9a3_2" lane="2bf32d7d7b1545d58ea945a0c8a6e9a3_2" pos="330"/>
+  <inductionLoop file="inducLoopfile.E1.xml" freq="300" id="2bf32d7d7b1545d58ea945a0c8a6e9a3_2" lane="2bf32d7d7b1545d58ea945a0c8a6e9a3_2" pos="330"/>
+  <laneAreaDetector file="lane_area.E2.xml" freq="300" id="2bf32d7d7b1545d58ea945a0c8a6e9a3_2" lane="2bf32d7d7b1545d58ea945a0c8a6e9a3_2"/>
+  <instantInductionLoop file="insinduc_loop.ins.xml" id="2bf32d7d7b1545d58ea945a0c8a6e9a3_1" lane="2bf32d7d7b1545d58ea945a0c8a6e9a3_1" pos="330"/>
+  <inductionLoop file="inducLoopfile.E1.xml" freq="300" id="2bf32d7d7b1545d58ea945a0c8a6e9a3_1" lane="2bf32d7d7b1545d58ea945a0c8a6e9a3_1" pos="330"/>
+  <laneAreaDetector file="lane_area.E2.xml" freq="300" id="2bf32d7d7b1545d58ea945a0c8a6e9a3_1" lane="2bf32d7d7b1545d58ea945a0c8a6e9a3_1"/>
+  <instantInductionLoop file="insinduc_loop.ins.xml" id="2bf32d7d7b1545d58ea945a0c8a6e9a3_0" lane="2bf32d7d7b1545d58ea945a0c8a6e9a3_0" pos="330"/>
+  <inductionLoop file="inducLoopfile.E1.xml" freq="300" id="2bf32d7d7b1545d58ea945a0c8a6e9a3_0" lane="2bf32d7d7b1545d58ea945a0c8a6e9a3_0" pos="330"/>
+  <laneAreaDetector file="lane_area.E2.xml" freq="300" id="2bf32d7d7b1545d58ea945a0c8a6e9a3_0" lane="2bf32d7d7b1545d58ea945a0c8a6e9a3_0"/>
+</additional>
